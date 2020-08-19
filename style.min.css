@@ -119,7 +119,7 @@ section > div > h1 {
 #landing-page .img-container {
   position: relative;
   height: 100%;
-  background-image: url("../img/img.jpg");
+  background-image: url("img.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center left;
